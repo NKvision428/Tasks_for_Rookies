@@ -19,12 +19,20 @@
 
 + [机器学习（西瓜书，周志华著）](https://www.zhihu.com/question/39945249)；
 
+任务：细读第二到第十四章，并任选一章整理分析。
+
++ [深度学习（花书，Goodfellow，Bengio等著](https://github.com/zsdonghao/deep-learning-book/blob/master/dlbook_cn_public.pdf)；
+
+任务：从第五章以后精读（尤其是7、8、9、11、12）。
+
 + [斯坦福CS231n CNN for Visual Recognition](https://www.bilibili.com/video/av53754154?from=search&seid=6020411155113851809)，总时长约20小时；
 
+任务：完成至少三次课堂作业。
+
+
+## 2. 论文阅读
+
 + 
-
-
-1论文阅读
 
 2文献搜集与特定领域发展情况总结
 
