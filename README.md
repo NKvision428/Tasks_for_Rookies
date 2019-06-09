@@ -19,7 +19,7 @@
 
 ***任务***：细读第二到第十四章，并任选一章整理分析。
 
-+ [深度学习（花书，Goodfellow，Bengio等著](https://github.com/zsdonghao/deep-learning-book/blob/master/dlbook_cn_public.pdf)；
++ [深度学习（花书，Goodfellow，Bengio等著）](https://github.com/zsdonghao/deep-learning-book/blob/master/dlbook_cn_public.pdf)；
 
 ***任务***：从第五章以后精读（尤其是7、8、9、11、12），理解并归纳机器学习中的正则化方法、优化方法以及卷积等操作。英语基础好的同学最好看英文版，以熟悉相关术语。
 
@@ -74,23 +74,34 @@
 
 ## 3. 深度学习编程框架学习
 
+学习资源：（*最好的学习方式便是安装配置好后自己动手尝试，遇到问题查英文官网上的官方文档，遇到报错查Google解决*）
+
++ TensorFlow
+   + [中文版官方文档](https://www.w3cschool.cn/tensorflow_python/?)
+
++ PyTorch
+   + [中文版官方文档](https://pytorch-cn.readthedocs.io/zh/latest/)
+
++ MXNet：
+   + [动手学深度学习视频课程](https://www.bilibili.com/video/av42355860?from=search&seid=10327628739099351727)，李沐（*分类分割检测等均有实现实例，质量非常高*）
+   + [动手学深度学习教科书](http://zh.gluon.ai/)，李沐
+
+
 ***任务***：
 
 + 学习TensorFlow、Pytorch、MXNet中的至少一个
 
-编写代码实现cifar10数据集分类，使用resnet50框架，分别使用无/有预训练模型
++ 编写代码实现
 
-编写代码实现sd198上的分类(注意数据读取速度)，并基于普通resnet 50分类器的baseline提出三种改进策略，观察结果并分析有效性
+   + CIFAR10数据集分类，使用resnet50框架，体会有/无预训练模型的差异；
 
-编写代码训练faster rcnn (任意数据集)，并在任意图像上测试
+   + SD-198皮肤病数据集分类（注意数据读取效率），并以普通Resnet 50分类器为baseline提出三种改进策略，观察结果并分析有效性；
 
-编写代码实现基本的生成式对抗网络，利用celebA数据集生成人脸图像；继续改进。
+   + 训练Faster Rcnn （任意数据集），并在任意图像上测试；
 
-4特定方法编程实现
+   + 实现基本的生成式对抗网络，利用celebA数据集生成人脸图像，基于该基准，按照最近提出的方法继续改进。
 
-手写实现resnet50，wgan，数据读取策略，评价指标等，分析可以改进之处。
-
-5论文写作与rebuttal流程
+## 4. 论文写作与rebuttal流程
 
 latex学习
 
