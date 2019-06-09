@@ -1,6 +1,6 @@
 # Tasks_for_Rookies
 
-欢迎来到[计算机视觉实验室](http://cv.nankai.edu.cn/)新手村。新手任务共分为以下几个部分：
+欢迎来到[计算机视觉实验室](http://cv.nankai.edu.cn/)，新手任务共分为以下几个部分：
 
 >机器学习与深度学习基础
 
