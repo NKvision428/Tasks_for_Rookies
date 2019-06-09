@@ -89,9 +89,13 @@
 
 ***任务***：
 
-+ 学习TensorFlow、Pytorch、MXNet中的至少一个
++ 学习TensorFlow、Pytorch、MXNet中的至少一个；
 
-+ 编写代码实现
++ 安装配置基于Ubuntu + CUDA + CuDNN + Anaconda的深度学习环境，配置相关源以加速相关包的安装，安装相应的深度学习框架并测试；
+
++ 使用ssh或pycharm、VScode等编译器的远程调试功能，在后台远程连接实验室服务器；
+
++ 编写代码实现以下任务：
 
    + CIFAR10数据集分类，使用resnet50框架，体会有/无预训练模型的差异；
 
@@ -103,14 +107,18 @@
 
 ## 4. 论文写作与rebuttal流程
 
-latex学习
++ latex相关：
+   + [命令查询](http://www.mohu.org/info/symbols/symbols.htm)
 
-论文结构
++ **论文结构**
 
-rebuttal注意事项
 
-6中英文邮件相关
+***任务***：选定某篇经典论文，分析其论文结构
 
-基本格式
++ **Rebuttal及Response**
 
-注意事项
+## 5. 中英文邮件相关
+
++ **基本格式**
+
++ **注意事项**
