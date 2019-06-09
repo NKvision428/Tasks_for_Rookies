@@ -14,8 +14,15 @@
 
 >中英文邮件相关
 
-    
-0机器学习与深度学习基础
+
+##1. 机器学习与深度学习基础
+
++ [机器学习（西瓜书，周志华著）](https://www.zhihu.com/question/39945249)；
+
++ [斯坦福CS231n CNN for Visual Recognition](https://www.bilibili.com/video/av53754154?from=search&seid=6020411155113851809)，总时长约20小时；
+
++ 
+
 
 1论文阅读
 
