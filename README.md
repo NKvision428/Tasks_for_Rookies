@@ -17,15 +17,15 @@
 
 + [机器学习（西瓜书，周志华著）](https://www.zhihu.com/question/39945249)；
 
-任务：细读第二到第十四章，并任选一章整理分析。
+***任务***：细读第二到第十四章，并任选一章整理分析。
 
 + [深度学习（花书，Goodfellow，Bengio等著](https://github.com/zsdonghao/deep-learning-book/blob/master/dlbook_cn_public.pdf)；
 
-任务：从第五章以后精读（尤其是7、8、9、11、12），理解并归纳机器学习中的正则化方法、优化方法以及卷积等操作。英语基础好的同学最好看英文版，以熟悉相关术语。
+***任务***：从第五章以后精读（尤其是7、8、9、11、12），理解并归纳机器学习中的正则化方法、优化方法以及卷积等操作。英语基础好的同学最好看英文版，以熟悉相关术语。
 
 + [斯坦福CS231n CNN for Visual Recognition](https://www.bilibili.com/video/av53754154?from=search&seid=6020411155113851809)，总时长约20小时；
 
-任务：完成至少三次课堂作业，同时锻炼英语能力。
+***任务***：完成至少三次课堂作业，同时锻炼英语能力。
 
 
 ## 2. 文献搜集与特定领域发展情况总结
@@ -62,7 +62,7 @@
 
    + 利用[Arxiv](https://arxiv.org/)、[Google Scholor](https://scholar.google.com.sg/)、[dblp](https://dblp.uni-trier.de/)等搜索漏网之鱼。
 
-任务：
+***任务***：
 
 + 确定自己的研究大方向，按照以上方法进行文献调研，尽可能全地找到该领域的相关工作，以合理的方式建立索引；
 
@@ -73,6 +73,8 @@
 + 论文阅读：精读各领域经典论文（分类领域从AlexNet到DenseNet、目标检测领域从RCNN到YoLo、分割领域从FCN到MaskRCNN、生成领域从GAN到BigGAN等），在最新顶会列表上大量泛读（读摘要和Introduction决定是否精读，迅速了解该文章的主要创新点）。
 
 ## 3. 深度学习编程框架学习
+
+***任务***：
 
 + 学习TensorFlow、Pytorch、MXNet中的至少一个
 
