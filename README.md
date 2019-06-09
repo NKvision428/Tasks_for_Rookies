@@ -19,7 +19,7 @@
 
 + [机器学习（西瓜书，周志华著）](https://www.zhihu.com/question/39945249)；
 
-任务：细读第二到第十四章，并任选一章整理分析。
+<font color=red>任务：</font>细读第二到第十四章，并任选一章整理分析。
 
 + [深度学习（花书，Goodfellow，Bengio等著](https://github.com/zsdonghao/deep-learning-book/blob/master/dlbook_cn_public.pdf)；
 
