@@ -12,4 +12,4 @@
 
 ### Star History
 
-[<img src="https://api.star-history.com/svg?repos=NKvision428/Tasks_for_Rookies&#x26;type=Date" alt="Star History Chart" data-size="original">](https://star-history.com/#NKvision428/Tasks\_for\_Rookies\&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=NKvision428/Tasks_for_Rookies&type=Date)](https://star-history.com/#NKvision428/Tasks_for_Rookies&Date)
