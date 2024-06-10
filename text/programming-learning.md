@@ -1,4 +1,5 @@
 ---
+description: 最好的学习方式便是安装配置好后自己动手尝试，遇到问题查英文官网上的官方文档，遇到报错查Google解决
 cover: >-
   ../.gitbook/assets/hujunyao_Convolutional_modules_of_size_CxHxW_cuboids_convolutio_b883522d-ed6a-429f-99dc-4638e414e957.webp
 coverY: 0
@@ -20,17 +21,17 @@ layout:
 
 # 深度学习编程框架学习与算法实现
 
-学习资源：（_最好的学习方式便是安装配置好后自己动手尝试，遇到问题查英文官网上的官方文档，遇到报错查Google解决_）
+## 学习资源
 
 * TensorFlow
   * [中文版官方文档](https://www.w3cschool.cn/tensorflow\_python/?)
 * PyTorch
   * [中文版官方文档](https://pytorch-cn.readthedocs.io/zh/latest/)
 * MXNet：
-  * [动手学深度学习视频课程](https://www.bilibili.com/video/av42355860?from=search\&seid=10327628739099351727)，李沐（_分类分割检测等均有实现实例，质量非常高_）
+  * [动手学深度学习视频课程](https://www.bilibili.com/video/av42355860?from=search\&seid=10327628739099351727)，李沐（分类、分割、检测等均有实现实例，质量非常高）
   * [动手学深度学习教科书](http://zh.gluon.ai/)，李沐
 
-_**任务**_：
+## <mark style="background-color:red;">**任务**</mark>
 
 * 学习TensorFlow、Pytorch、MXNet中的至少一个；
 * 安装配置基于Ubuntu + CUDA + CuDNN + Anaconda的深度学习环境，配置相关源以加速相关包的安装，安装相应的深度学习框架并测试；
