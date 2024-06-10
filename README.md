@@ -1,11 +1,5 @@
 ---
-cover: >-
-  .gitbook/assets/hujunyao_a_group_of_graduate_students_are_working_on_computer_p_88ca703c-9ae2-4261-9783-01d518120c27.webp
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
