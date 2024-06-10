@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 💪 Tasks\_for\_Rookies
 
 欢迎来到[南开大学计算机视觉实验室](http://cv.nankai.edu.cn/)
