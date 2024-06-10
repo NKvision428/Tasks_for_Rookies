@@ -2,7 +2,7 @@
 
 欢迎来到[南开大学计算机视觉实验室](http://cv.nankai.edu.cn/)
 
-新手任务共分为以下几个部分：
+新手任务共有如下几个部分：
 
 * [机器学习与深度学习基础](text/ml-and-dl-fundamentals.md)
 * [文献搜集与特定领域发展情况总结](text/literature-collection-and-summary-of-fields.md)

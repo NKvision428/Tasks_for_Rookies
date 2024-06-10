@@ -1,3 +1,23 @@
+---
+cover: >-
+  ../.gitbook/assets/hujunyao_Research_reports_and_papers_on_the_desk_watercolor_sty_4b1c4e56-8883-47eb-b54c-476544e2d679.webp
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 文献搜集与特定领域发展情况总结
 
 在Idea形成之前，应首先确定一个**大方向**，以下方式二选一：

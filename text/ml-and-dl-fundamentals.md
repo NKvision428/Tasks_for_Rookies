@@ -1,3 +1,23 @@
+---
+cover: >-
+  ../.gitbook/assets/hujunyao_deep_learning_machine_learning_watercolor_style_2fcdb6b1-b745-494a-9b55-dcffff65ce3c.webp
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 机器学习与深度学习基础
 
 * [机器学习（西瓜书，周志华著）](https://www.zhihu.com/question/39945249)；

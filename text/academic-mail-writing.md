@@ -1,3 +1,23 @@
+---
+cover: >-
+  ../.gitbook/assets/hujunyao_computer_screen_email_website_writing_an_email_waterco_5b3fee9c-378f-4627-9f64-892b587b6bb5.webp
+coverY: -42
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 学术邮件撰写
 
 在研究过程中与导师、合作者等人交流的一个重要渠道便是邮件，以下简述中英文邮件的基本格式和注意事项。
