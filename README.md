@@ -9,7 +9,3 @@
 * [深度学习编程框架学习与算法实现](text/programming-learning.md)
 * [论文写作与rebuttal](text/writing-and-rebuttal.md)
 * [学术邮件撰写](text/academic-mail-writing.md)
-
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=NKvision428/Tasks_for_Rookies&type=Date)](https://star-history.com/#NKvision428/Tasks_for_Rookies&Date)
