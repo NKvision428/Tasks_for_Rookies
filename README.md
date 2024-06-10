@@ -1,11 +1,15 @@
 # 💪 Tasks\_for\_Rookies
 
-欢迎来到[南开大学计算机视觉实验室](http://cv.nankai.edu.cn/)
+{% hint style="info" %}
+[网页版](https://nkcvlab.gitbook.io/tasks\_for\_rookies)浏览效果更佳。
+{% endhint %}
 
-新手任务共有如下几个部分：
+欢迎来到[南开大学计算机视觉实验室](http://cv.nankai.edu.cn/)！
 
-* [机器学习与深度学习基础](text/ml-and-dl-fundamentals.md)
-* [文献搜集与特定领域发展情况总结](text/literature-collection-and-summary-of-fields.md)
-* [深度学习编程框架学习与算法实现](text/programming-learning.md)
-* [论文写作与rebuttal](text/writing-and-rebuttal.md)
-* [学术邮件撰写](text/academic-mail-writing.md)
+新手任务共分为如下几个部分：
+
+* [机器学习与深度学习基础](https://nkcvlab.gitbook.io/tasks\_for\_rookies/text/ml-and-dl-fundamentals)
+* [文献搜集与特定领域发展情况总结](https://nkcvlab.gitbook.io/tasks\_for\_rookies/text/literature-collection-and-summary-of-fields)
+* [深度学习编程框架学习与算法实现](https://nkcvlab.gitbook.io/tasks\_for\_rookies/text/programming-learning)
+* [论文写作与rebuttal](https://nkcvlab.gitbook.io/tasks\_for\_rookies/text/writing-and-rebuttal)
+* [学术邮件撰写](https://nkcvlab.gitbook.io/tasks\_for\_rookies/text/academic-mail-writing)
