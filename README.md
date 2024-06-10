@@ -1,8 +1,6 @@
 # 💪 Tasks\_for\_Rookies
 
-{% hint style="info" %}
-[网页版](https://nkcvlab.gitbook.io/tasks\_for\_rookies)浏览效果更佳。
-{% endhint %}
+> [网页版](https://nkcvlab.gitbook.io/tasks\_for\_rookies)浏览效果更佳。
 
 欢迎来到[南开大学计算机视觉实验室](http://cv.nankai.edu.cn/)！
 
