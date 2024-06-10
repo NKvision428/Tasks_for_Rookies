@@ -1,4 +1,24 @@
-# 深度学习编程框架学习
+---
+cover: >-
+  ../.gitbook/assets/hujunyao_Convolutional_modules_of_size_CxHxW_cuboids_convolutio_b883522d-ed6a-429f-99dc-4638e414e957.webp
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 深度学习编程框架学习与算法实现
 
 学习资源：（_最好的学习方式便是安装配置好后自己动手尝试，遇到问题查英文官网上的官方文档，遇到报错查Google解决_）
 
