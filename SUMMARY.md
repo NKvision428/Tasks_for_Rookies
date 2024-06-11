@@ -6,14 +6,21 @@
 
 * [前言](intro/intro.md)
 
-## 正篇 <a href="#text" id="text"></a>
+## 科研规范篇 <a href="#code-of-conduct" id="code-of-conduct"></a>
 
-* [机器学习与深度学习基础](text/ml-and-dl-fundamentals.md)
-* [文献搜集与特定领域发展情况总结](text/literature-collection-and-summary-of-fields.md)
-* [深度学习编程框架学习与算法实现](text/programming-learning.md)
-* [论文写作与rebuttal](text/writing-and-rebuttal/README.md)
-  * [TPAMI写作指南](text/writing-and-rebuttal/tpami-writing-guideline.md)
-* [学术邮件撰写](text/academic-mail-writing.md)
+* [日常规范](code-of-conduct/daily-life.md)
+* [学术邮件撰写](code-of-conduct/academic-mail-writing.md)
+* [采购与报销](code-of-conduct/procurement-and-reimbursement.md)
+
+## 科研能力篇 <a href="#ability" id="ability"></a>
+
+* [机器学习与深度学习基础](ability/ml-and-dl-fundamentals.md)
+* [文献搜集与特定领域发展情况总结](ability/literature-collection-and-summary-of-fields.md)
+* [深度学习编程框架学习与算法实现](ability/programming-learning.md)
+* [学术写作](ability/academic-writing/README.md)
+  * [基本原则](ability/academic-writing/basic.md)
+  * [论文写作与rebuttal](ability/academic-writing/writing-and-rebuttal.md)
+  * [TPAMI写作指南](ability/academic-writing/tpami-writing-guideline.md)
 
 ## 后记 <a href="#postscript" id="postscript"></a>
 
