@@ -11,7 +11,8 @@
 * [机器学习与深度学习基础](text/ml-and-dl-fundamentals.md)
 * [文献搜集与特定领域发展情况总结](text/literature-collection-and-summary-of-fields.md)
 * [深度学习编程框架学习与算法实现](text/programming-learning.md)
-* [论文写作与rebuttal](text/writing-and-rebuttal.md)
+* [论文写作与rebuttal](text/writing-and-rebuttal/README.md)
+  * [TPAMI写作指南](text/writing-and-rebuttal/tpami-writing-guideline.md)
 * [学术邮件撰写](text/academic-mail-writing.md)
 
 ## 后记 <a href="#postscript" id="postscript"></a>
