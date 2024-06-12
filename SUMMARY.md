@@ -8,9 +8,7 @@
 
 ## 科研规范篇 <a href="#code-of-conduct" id="code-of-conduct"></a>
 
-* [日常规范](code-of-conduct/daily-life.md)
 * [学术邮件撰写](code-of-conduct/academic-mail-writing.md)
-* [采购与报销](code-of-conduct/procurement-and-reimbursement.md)
 
 ## 科研能力篇 <a href="#ability" id="ability"></a>
 
@@ -25,4 +23,4 @@
 ## 后记 <a href="#postscript" id="postscript"></a>
 
 * [更新日志](postscript/update-logs.md)
-* [参考文献](postscript/references.md)
+* [参考](postscript/references.md)
