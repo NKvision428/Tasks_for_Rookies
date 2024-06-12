@@ -7,7 +7,6 @@
 新手任务共分为如下几个部分：
 
 * 科研规范篇
-  * [日常规范](code-of-conduct/daily-life.md)
   * [学术邮件撰写](code-of-conduct/academic-mail-writing.md)
 * 科研能力篇
   * [机器学习与深度学习基础](ability/ml-and-dl-fundamentals.md)
