@@ -13,3 +13,7 @@
   * [文献搜集与特定领域发展情况总结](ability/literature-collection-and-summary-of-fields.md)
   * [深度学习编程框架学习与算法实现](ability/programming-learning.md)
   * [学术写作](ability/academic-writing/)
+
+## ⭐ Star 历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=NKvision428/Tasks_for_Rookies&type=Date)](https://star-history.com/#NKvision428/Tasks_for_Rookies&Date)
